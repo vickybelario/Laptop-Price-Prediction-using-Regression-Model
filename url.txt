@@ -1,0 +1,4 @@
+
+***pengambilan data melalui website kaggle berikut : https://www.kaggle.com/datasets/pragatikumari928/cleaned-laptop-price-dataset?select=laptop_updated.csv*** 
+
+***deployment proyek model pada website huggingface berikut : https://huggingface.co/spaces/vickybelario/milestone2***
