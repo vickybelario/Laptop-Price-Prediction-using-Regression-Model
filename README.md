@@ -61,7 +61,7 @@ Kolom numerik kontinu mewakili pengukuran yang dapat mengambil nilai apa pun dal
 - price: Harga laptop.
 - ppi: ukuran kerapatan piksel (Pixels Per Inch)
 
-Deployment proyek model pada website huggingface berikut :  [Link](https://huggingface.co/spaces/vickybelario/milestone2)
+Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/milestone2)
 
 ## kesimpulan
 
