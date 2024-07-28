@@ -1,7 +1,7 @@
 # Laptop-Price-Prediction-using-Regression-Model
 
 
-## 1. Introduction
+## Introduction
 - Nama  : Vicky Belario
 - Batch : 017 HCK
 
@@ -23,6 +23,9 @@ proses pengambilan keputusan pembelian menjadi rumit ketika konsumen memilih lap
 Tujuan utama dari proyek ini adalah mengembangkan model regresi multilinear untuk memprediksi harga laptop berdasarkan fitur-fitur laptop seperti kecepatan prosesor dan kapasitas penyimpanan. Dengan mencapai tujuan ini, konsumen dapat mendapatkan perkiraan harga laptop yang informatif, sehingga membantu mereka membuat keputusan saat membeli laptop 
 
 ### **Dataset Overview**
+
+Pengambilan data melalui website kaggle :  [Link](https://www.kaggle.com/datasets/pragatikumari928/cleaned-laptop-price-dataset?select=laptop_updated.csv)
+
 Dataset tersusun dari kumpulan berbagai informasi harga laptop yang dapat digunakan untuk menganalisis dan memahami tren harga serta spesifikasi dari berbagai model laptop. 
 Dataset ini memiliki kolom yang berdasarkan bentuk datanya bisa dikategorikan sebagai berikut : 
 
@@ -57,3 +60,30 @@ Kolom numerik kontinu mewakili pengukuran yang dapat mengambil nilai apa pun dal
 - Weight: Berat laptop.
 - price: Harga laptop.
 - ppi: ukuran kerapatan piksel (Pixels Per Inch)
+
+
+Deployment proyek model pada website huggingface berikut :  [Link](https://huggingface.co/spaces/vickybelario/milestone2)
+
+## kesimpulan
+
+- Rata-rata, merek laptop paling mahal adalah Razer dan yang paling populer adalah Dell dan Lenovo.
+
+- Di antara jenis laptop, notebook adalah yang paling populer, sementara laptop gaming dan workstation adalah yang paling mahal.
+
+- Ukuran layar laptop tidak memiliki pengaruh yang signifikan, karena rata-rata laptop dengan layar berukuran sedang (antara 14 dan 16 inci) memiliki harga terendah.
+
+- Rata-rata, laptop paling mahal memiliki prosesor Intel Core generasi ke-7, sementara dibawahnya versi lama  prosesor Intel Core i3.
+
+- Sebagian besar kartu grafis diproduksi oleh Nvidia dan biasanya memiliki harga tertinggi, sementara banyak laptop menggunakan grafis dari Intel.
+
+- RAM secara definitif memengaruhi model - semakin besar jumlahnya dalam GB, semakin mahal harga laptop.
+
+- Sistem operasi memiliki dampak relatif rendah pada harga laptop karena rata-rata laptop termahal memiliki Mac OS.
+
+- dari hasil cross validation didapat dari 6 model yang dicoba, model terbaik adalah random forest regressor dengan nilai rmse 195 euro
+
+- dari hasil RandomSearch didapat hyperparameter terbaik max_depth = 37, max_leaf_nodes = 47 , min_samples_leaf = 1 , min_samples_split = 5 , n_estimators = 155 <br>
+
+- Kesalahan rata-rata (RMSE) pada model terbaik menggunakan hyperparameter adalah 168 euro 
+
+- terdapat peningkatan rmse sebelum dan sesuah tuning dari 195 menjadi 169 menunjukan kesalahan rata-rata mengecil
