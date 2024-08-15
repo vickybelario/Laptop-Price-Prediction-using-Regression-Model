@@ -1,4 +1,4 @@
-# Laptop-Price-Prediction-using-Regression-Model
+# Laptop Price Prediction using Regression Model
 
 
 ## Introduction
