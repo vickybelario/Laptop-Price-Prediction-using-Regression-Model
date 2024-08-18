@@ -1,3 +1,6 @@
+
+![the-Fair-Price-When-You-Sell-Laptops](https://github.com/user-attachments/assets/5764204f-bbda-4bcf-ba8b-11793266a284)
+
 # Laptop Price Prediction using Regression Model
 ---
 
