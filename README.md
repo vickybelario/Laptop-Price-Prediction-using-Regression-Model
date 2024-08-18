@@ -2,7 +2,6 @@
 
 ## Introduction
 - Nama  : Vicky Belario
-- Batch : 017 HCK
 
 Milestone 2 ini dilakukan untuk mengimplementasikan konsep Machine Learning terutama Supervised Learning dengan model Regression pada dataset harga laptop
 
