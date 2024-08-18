@@ -2,7 +2,6 @@
 
 # test
 # testing
-# testing
 
 ## Introduction
 Nama  : Vicky Belario
