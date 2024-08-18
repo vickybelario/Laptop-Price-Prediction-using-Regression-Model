@@ -18,7 +18,8 @@ Di era digital saat ini, laptop telah menjadi alat yang tak tergantikan bagi kon
 
 proses pengambilan keputusan pembelian menjadi rumit ketika konsumen memilih laptop yang sesuai dengan kebutuhan mereka maupun sesuai dengan anggaran yang ada atau spesifikasi yang diinginkan, karena harga laptop dapat bervariasi berdasarkan spesifikasi, merek, dan tren pasar.
 
-### **Goal**
+# <a style="float:right; margin-right: 15px"><img src="https://www.flaticon.com/free-icon/dartboard_2724931?term=dartboard&page=1&position=3&origin=search&related_id=2724931" alt="drawing" width="64" align="center"/></a> <a id="class1" style="">**Goal**</a> 
+
 Tujuan utama dari proyek ini adalah mengembangkan model regresi multilinear untuk memprediksi harga laptop berdasarkan fitur-fitur laptop seperti kecepatan prosesor dan kapasitas penyimpanan. Dengan mencapai tujuan ini, konsumen dapat mendapatkan perkiraan harga laptop yang informatif, sehingga membantu mereka membuat keputusan saat membeli laptop 
 
 ### **Dataset Overview**
