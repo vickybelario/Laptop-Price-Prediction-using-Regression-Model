@@ -1,7 +1,7 @@
 # Laptop Price Prediction using Regression Model
 ---
 
-# <a id="class1" style="">**Introduction**</a> <a style="float:right; margin-right: 15px"><img src="https://png.pngtree.com/png-vector/20221010/ourmid/pngtree-paper-icon-png-image_6294297.png" alt="drawing" width="64" align="center"/></a>
+# <a style="float:right; margin-right: 15px"><img src="https://png.pngtree.com/png-vector/20221010/ourmid/pngtree-paper-icon-png-image_6294297.png" alt="drawing" width="64" align="center"/></a> <a id="class1" style="">**Introduction**</a> 
 
 
 Nama  : Vicky Belario
@@ -61,7 +61,7 @@ Deployment proyek model pada website huggingface : [Link](https://huggingface.co
 
 ---
 
-## <a id="class10">**Conclusion**</a> <a style="float:right; margin-right: 15px"><img src="https://cdn-icons-png.freepik.com/256/11063/11063232.png" alt="drawing" width="64" align="center"/></a>
+## <a style="float:right; margin-right: 15px"><img src="https://cdn-icons-png.freepik.com/256/11063/11063232.png" alt="drawing" width="64" align="center"/></a> <a id="class10">**Conclusion**</a>
 
 ---
 
