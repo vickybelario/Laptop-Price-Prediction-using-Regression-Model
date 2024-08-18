@@ -1,7 +1,7 @@
 # Laptop Price Prediction using Regression Model
 
 ## Introduction
-- Nama  : Vicky Belario
+Nama  : Vicky Belario
 
 Milestone 2 ini dilakukan untuk mengimplementasikan konsep Machine Learning terutama Supervised Learning dengan model Regression pada dataset harga laptop
 
