@@ -1,19 +1,14 @@
 # Laptop Price Prediction using Regression Model
+---
 
-# test
-# testing
+# <a id="class1" style="">**Introduction**</a> <a style="float:right; margin-right: 15px"><img src="https://png.pngtree.com/png-vector/20221010/ourmid/pngtree-paper-icon-png-image_6294297.png" alt="drawing" width="64" align="center"/></a>
 
-## Introduction
+
 Nama  : Vicky Belario
 
-Milestone 2 ini dilakukan untuk mengimplementasikan konsep Machine Learning terutama Supervised Learning dengan model Regression pada dataset harga laptop
+Project ini dilakukan untuk mengimplementasikan konsep Machine Learning terutama Supervised Learning dengan model Regression pada dataset harga laptop
 
-### **Objective**
-- Memahami konsep Machine Learning.
-- Dapat mempersiapkan data untuk digunakan dalam Supervised Learning model Regression.
-- Bisa menerapkan Supervised Learning model Regression pada dataset harga lapptop.
-- Sanggup melakukan Hyperparameter Tuning dan Cross Validation.
-- Mampu melakukan Model Deployment.
+---
 
 ### **Background**
 Di era digital saat ini, laptop telah menjadi alat yang tak tergantikan bagi konsumen di seluruh dunia, digunakan untuk pekerjaan, pendidikan, dan hiburan.  Dengan teknologi yang berkembang pesat, beragam model dan fitur laptop tersedia dengan banyak pilihan. konsumen dihadapkan pada berbagai pilihan laptop yang sangat beragam.
@@ -64,7 +59,11 @@ Kolom numerik kontinu mewakili pengukuran yang dapat mengambil nilai apa pun dal
 
 Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/milestone2)
 
-## kesimpulan
+---
+
+## <a id="class10">**Conclusion**</a> <a style="float:right; margin-right: 15px"><img src="https://cdn-icons-png.freepik.com/256/11063/11063232.png" alt="drawing" width="64" align="center"/></a>
+
+---
 
 - Rata-rata, merek laptop paling mahal adalah Razer dan yang paling populer adalah Dell dan Lenovo.
 
