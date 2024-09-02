@@ -67,20 +67,18 @@ Deployment proyek model pada website huggingface : [Link](https://huggingface.co
 
 
 ---
-Daftar Kontent Di bawah ini : 
-   1. Perkenalan
-      > Bab pengenalan berisi dengan identitas, gambaran besar dataset yang digunakan, dan *objective* yang ingin dicapai.
-   
-   2. Import Libraries
+Penjelasan kontent pada file modelling sebagai berikut : 
+
+   1. Import Libraries
       > *Cell* pertama pada *notebook* **berisi dan hanya berisi** semua *library* yang digunakan dalam *project*.
    
-   3. Data Loading
+   2. Data Loading
       > Bagian ini berisi proses penyiapan data sebelum dilakukan eksplorasi data lebih lanjut. Proses Data Loading dapat berupa memberi nama baru untuk setiap kolom, mengecek ukuran dataset, dll.
    
-   4. Exploratory Data Analysis (EDA)
+   3. Exploratory Data Analysis (EDA)
       > Bagian ini berisi explorasi data pada dataset diatas dengan menggunakan query, grouping, visualisasi sederhana, dan lain sebagainya.
    
-   5. Feature Engineering
+   4. Feature Engineering
       > Bagian ini berisi proses penyiapan data untuk proses pelatihan model, seperti pembagian data menjadi train-test, transformasi data (normalisasi, encoding, dll.), dan proses-proses lain yang dibutuhkan.   
    
    6. Model Definition
@@ -89,18 +87,14 @@ Daftar Kontent Di bawah ini :
    7. Model Training
       > Cell pada bagian ini hanya berisi code untuk melatih model dan output yang dihasilkan. meLakukan beberapa kali proses training dengan hyperparameter yang berbeda untuk melihat hasil yang didapatkan. Analisis dan narasi hasil ini pada bagian Model Evaluation.
    
-   8. Model Evaluation
+   10. Model Evaluation
       > Pada bagian ini, dilakukan evaluasi model yang menunjukkan bagaimana performa model berdasarkan metrics yang dipilih. Hal ini dibuktikan dengan visualisasi tren performa dan/atau tingkat kesalahan model. **dilakukan analisis terkait dengan hasil pada model dan menuliskan hasil analisisnya**.
 
-   9. Model Saving
+   11. Model Saving
       > Pada bagian ini, dilakukan proses penyimpanan model dan file-file lain yang terkait dengan hasil proses pembuatan model. **Dengan melihat hasil Model Evaluation, memilih satu model terbaik untuk disimpan. Model terbaik ini akan digunakan kembali dalam melakukan Model Inference dan Model Deployment.**
    
-   10. Model Inference
+   12. Model Inference
        > Model yang sudah dilatih akan dicoba pada data yang bukan termasuk ke dalam train-set ataupun test-set. Data ini dalam format yang asli, bukan data yang sudah di-scaled. Menggunakan model terbaik berdasarkan hasil Model Evaluation. Notebook Model Inference berbeda dengan notebook saat pembuatan model dilakukan.
-   
-   11. Pengambilan Kesimpulan
-       > Pada bagian terakhir ini, **berisi** kesimpulan yang mencerminkan hasil yang didapat dengan *objective* yang sudah ditulis di bagian pengenalan.
-
 ---
 
 ## <a style="float:right; margin-right: 15px"><img src="https://cdn-icons-png.freepik.com/256/11063/11063232.png" alt="drawing" width="64" align="center"/></a> <a id="class10">**Conclusion**</a>
