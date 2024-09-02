@@ -81,19 +81,19 @@ Penjelasan kontent pada file modelling sebagai berikut :
    4. Feature Engineering
       > Bagian ini berisi proses penyiapan data untuk proses pelatihan model, seperti pembagian data menjadi train-test, transformasi data (normalisasi, encoding, dll.), dan proses-proses lain yang dibutuhkan.   
    
-   6. Model Definition
+   5. Model Definition
       > Bagian ini berisi cell untuk mendefinisikan model. menjelaskan alasan menggunakan suatu algoritma/model, hyperparameter yang dipakai, jenis penggunaan metrics yang dipakai, dan hal lain yang terkait dengan model.
 
-   7. Model Training
+   6. Model Training
       > Cell pada bagian ini hanya berisi code untuk melatih model dan output yang dihasilkan. meLakukan beberapa kali proses training dengan hyperparameter yang berbeda untuk melihat hasil yang didapatkan. Analisis dan narasi hasil ini pada bagian Model Evaluation.
    
-   10. Model Evaluation
+   7. Model Evaluation
       > Pada bagian ini, dilakukan evaluasi model yang menunjukkan bagaimana performa model berdasarkan metrics yang dipilih. Hal ini dibuktikan dengan visualisasi tren performa dan/atau tingkat kesalahan model. **dilakukan analisis terkait dengan hasil pada model dan menuliskan hasil analisisnya**.
 
-   11. Model Saving
+   8. Model Saving
       > Pada bagian ini, dilakukan proses penyimpanan model dan file-file lain yang terkait dengan hasil proses pembuatan model. **Dengan melihat hasil Model Evaluation, memilih satu model terbaik untuk disimpan. Model terbaik ini akan digunakan kembali dalam melakukan Model Inference dan Model Deployment.**
    
-   12. Model Inference
+   9. Model Inference
        > Model yang sudah dilatih akan dicoba pada data yang bukan termasuk ke dalam train-set ataupun test-set. Data ini dalam format yang asli, bukan data yang sudah di-scaled. Menggunakan model terbaik berdasarkan hasil Model Evaluation. Notebook Model Inference berbeda dengan notebook saat pembuatan model dilakukan.
 ---
 
