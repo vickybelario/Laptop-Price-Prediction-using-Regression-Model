@@ -13,7 +13,8 @@ Project ini dilakukan untuk mengimplementasikan konsep Machine Learning terutama
 
 ---
 
-### **Background**
+# <a style="float:right; margin-right: 15px"><img src="https://cdn-icons-png.flaticon.com/512/9805/9805668.png" alt="drawing" width="64" align="center"/></a> <a id="class1" style="">**Background**</a> 
+
 Di era digital saat ini, laptop telah menjadi alat yang tak tergantikan bagi konsumen di seluruh dunia, digunakan untuk pekerjaan, pendidikan, dan hiburan.  Dengan teknologi yang berkembang pesat, beragam model dan fitur laptop tersedia dengan banyak pilihan. konsumen dihadapkan pada berbagai pilihan laptop yang sangat beragam.
 
 proses pengambilan keputusan pembelian menjadi rumit ketika konsumen memilih laptop yang sesuai dengan kebutuhan mereka maupun sesuai dengan anggaran yang ada atau spesifikasi yang diinginkan, karena harga laptop dapat bervariasi berdasarkan spesifikasi, merek, dan tren pasar.
@@ -22,7 +23,8 @@ proses pengambilan keputusan pembelian menjadi rumit ketika konsumen memilih lap
 
 Tujuan utama dari proyek ini adalah mengembangkan model regresi multilinear untuk memprediksi harga laptop berdasarkan fitur-fitur laptop seperti kecepatan prosesor dan kapasitas penyimpanan. Dengan mencapai tujuan ini, konsumen dapat mendapatkan perkiraan harga laptop yang informatif, sehingga membantu mereka membuat keputusan saat membeli laptop 
 
-### **Dataset Overview**
+
+# <a style="float:right; margin-right: 15px"><img src="https://cdn-icons-png.flaticon.com/512/2110/2110161.png" alt="data" width="64" align="center"/></a> <a id="class1" style="">**Dataset overview**</a> 
 
 Pengambilan data melalui website kaggle :  [Link](https://www.kaggle.com/datasets/pragatikumari928/cleaned-laptop-price-dataset?select=laptop_updated.csv)
 
@@ -62,6 +64,42 @@ Kolom numerik kontinu mewakili pengukuran yang dapat mengambil nilai apa pun dal
 - ppi: ukuran kerapatan piksel (Pixels Per Inch)
 
 Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/milestone2)
+
+
+---
+Daftar Kontent Di bawah ini : 
+   1. Perkenalan
+      > Bab pengenalan harus diisi dengan identitas, gambaran besar dataset yang digunakan, dan *objective* yang ingin dicapai.
+   
+   2. Import Libraries
+      > *Cell* pertama pada *notebook* **harus berisi dan hanya berisi** semua *library* yang digunakan dalam *project*.
+   
+   3. Data Loading
+      > Bagian ini berisi proses penyiapan data sebelum dilakukan eksplorasi data lebih lanjut. Proses Data Loading dapat berupa memberi nama baru untuk setiap kolom, mengecek ukuran dataset, dll.
+   
+   4. Exploratory Data Analysis (EDA)
+      > Bagian ini berisi explorasi data pada dataset diatas dengan menggunakan query, grouping, visualisasi sederhana, dan lain sebagainya.
+   
+   5. Feature Engineering
+      > Bagian ini berisi proses penyiapan data untuk proses pelatihan model, seperti pembagian data menjadi train-test, transformasi data (normalisasi, encoding, dll.), dan proses-proses lain yang dibutuhkan.   
+   
+   6. Model Definition
+      > Bagian ini berisi cell untuk mendefinisikan model. Jelaskan alasan menggunakan suatu algoritma/model, hyperparameter yang dipakai, jenis penggunaan metrics yang dipakai, dan hal lain yang terkait dengan model.
+
+   7. Model Training
+      > Cell pada bagian ini hanya berisi code untuk melatih model dan output yang dihasilkan. Lakukan beberapa kali proses training dengan hyperparameter yang berbeda untuk melihat hasil yang didapatkan. Analisis dan narasikan hasil ini pada bagian Model Evaluation.
+   
+   8. Model Evaluation
+      > Pada bagian ini, dilakukan evaluasi model yang harus menunjukkan bagaimana performa model berdasarkan metrics yang dipilih. Hal ini harus dibuktikan dengan visualisasi tren performa dan/atau tingkat kesalahan model. **Lakukan analisis terkait dengan hasil pada model dan tuliskan hasil analisisnya**.
+
+   9. Model Saving
+      > Pada bagian ini, dilakukan proses penyimpanan model dan file-file lain yang terkait dengan hasil proses pembuatan model. **Dengan melihat hasil Model Evaluation, pilihlah satu model terbaik untuk disimpan. Model terbaik ini akan digunakan kembali dalam melakukan Model Inference dan Model Deployment.**
+   
+   10. Model Inference
+       > Model yang sudah dilatih akan dicoba pada data yang bukan termasuk ke dalam train-set ataupun test-set. Data ini harus dalam format yang asli, bukan data yang sudah di-scaled. Gunakan model terbaik berdasarkan hasil Model Evaluation. Notebook Model Inference haruslah berbeda dengan notebook saat pembuatan model dilakukan.
+   
+   11. Pengambilan Kesimpulan
+       > Pada bagian terakhir ini, **harus berisi** kesimpulan yang mencerminkan hasil yang didapat dengan *objective* yang sudah ditulis di bagian pengenalan.
 
 ---
 
