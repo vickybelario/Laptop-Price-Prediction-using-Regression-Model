@@ -11,7 +11,7 @@ Nama  : Vicky Belario
 
 Project ini dilakukan untuk mengimplementasikan konsep Machine Learning terutama Supervised Learning dengan model Regression pada dataset harga laptop
 
-Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/Laptops-Price-Prediction-using-Regression-Model)
+Deployment proyek model pada website Huggingface : [Link](https://huggingface.co/spaces/vickybelario/Laptops-Price-Prediction-using-Regression-Model)
 
 ---
 
