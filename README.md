@@ -28,7 +28,7 @@ Tujuan utama dari proyek ini adalah mengembangkan model regresi multilinear untu
 
 # <a style="float:right; margin-right: 15px"><img src="https://cdn-icons-png.flaticon.com/512/2110/2110161.png" alt="data" width="64" align="center"/></a> <a id="class1" style="">**Dataset overview**</a> 
 
-Pengambilan data melalui website kaggle :  [Link](https://www.kaggle.com/datasets/pragatikumari928/cleaned-laptop-price-dataset?select=laptop_updated.csv)
+Pengambilan data melalui website Kaggle :  [Link](https://www.kaggle.com/datasets/pragatikumari928/cleaned-laptop-price-dataset?select=laptop_updated.csv)
 
 Dataset tersusun dari kumpulan berbagai informasi harga laptop yang dapat digunakan untuk menganalisis dan memahami tren harga serta spesifikasi dari berbagai model laptop. 
 Dataset ini memiliki kolom yang berdasarkan bentuk datanya bisa dikategorikan sebagai berikut : 
