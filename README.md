@@ -6,7 +6,7 @@
 
 # <a style="float:right; margin-right: 15px"><img src="https://png.pngtree.com/png-vector/20221010/ourmid/pngtree-paper-icon-png-image_6294297.png" alt="drawing" width="64" align="center"/></a> <a id="class1" style="">**Introduction**</a> 
 
-
+..
 Nama  : Vicky Belario
 
 Project ini dilakukan untuk mengimplementasikan konsep Machine Learning terutama Supervised Learning dengan model Regression pada dataset harga laptop
